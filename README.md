@@ -74,4 +74,5 @@ We cross-validated our CNN classification model on another Kaggle dataset of 160
 <img width="" height="" src="https://user-images.githubusercontent.com/73955220/211172518-5c514554-1870-4ec8-8c52-2b3357573ad8.png">
 </p>
 
-
+## Running of Code
+You can run the code by just downloading the notebook and running it on Jupyter or upload on Google Colab and run it over there but you will have to change the dataset location link in the code and also change the model save and load location according to your own device from the code. I have already linked the dataset above.
